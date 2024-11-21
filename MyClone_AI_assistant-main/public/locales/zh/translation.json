@@ -1,0 +1,63 @@
+{
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "add": "添加",
+    "search": "搜索",
+    "language": "语言",
+    "settings": "设置"
+  },
+  "nav": {
+    "home": "首页",
+    "knowledge": "知识库",
+    "voice": "语音训练",
+    "avatar": "头像训练",
+    "chat": "聊天"
+  },
+  "voice": {
+    "title": "语音训练工作室",
+    "subtitle": "创建您的数字语音克隆",
+    "record": "录制",
+    "stop": "停止",
+    "play": "播放",
+    "upload": "上传",
+    "tips": "提示",
+    "micPermission": "请允许访问麦克风",
+    "recording": "录制中...",
+    "processing": "处理中...",
+    "success": "录音保存成功",
+    "error": "录音出错"
+  },
+  "knowledge": {
+    "title": "知识库",
+    "addNew": "添加新条目",
+    "search": "搜索知识库...",
+    "noItems": "未找到条目",
+    "deleteConfirm": "确定要删除此条目吗？",
+    "content": "内容",
+    "source": "来源",
+    "timestamp": "添加时间"
+  },
+  "emotions": {
+    "joy": "喜悦",
+    "sadness": "悲伤",
+    "anger": "愤怒",
+    "fear": "恐惧",
+    "surprise": "惊讶",
+    "neutral": "中性"
+  },
+  "languages": {
+    "en": "英语",
+    "es": "西班牙语",
+    "fr": "法语",
+    "de": "德语",
+    "ru": "俄语",
+    "zh": "中文",
+    "ja": "日语"
+  }
+}

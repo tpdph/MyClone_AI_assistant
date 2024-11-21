@@ -1,0 +1,69 @@
+{
+  "common": {
+    "loading": "Lädt...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "add": "Hinzufügen",
+    "search": "Suchen",
+    "language": "Sprache",
+    "settings": "Einstellungen"
+  },
+  "chat": {
+    "placeholder": "Schreiben Sie Ihre Nachricht hier...",
+    "send": "Senden",
+    "thinking": "KI denkt nach...",
+    "error": "Fehler beim Senden der Nachricht"
+  },
+  "nav": {
+    "home": "Startseite",
+    "knowledge": "Wissensbasis",
+    "voice": "Stimmtraining",
+    "avatar": "Avatar-Training",
+    "chat": "Chat"
+  },
+  "voice": {
+    "title": "Stimmtraining-Studio",
+    "subtitle": "Erstellen Sie Ihren digitalen Stimmklon",
+    "record": "Aufnehmen",
+    "stop": "Stopp",
+    "play": "Abspielen",
+    "upload": "Hochladen",
+    "tips": "Tipps",
+    "micPermission": "Bitte erlauben Sie den Zugriff auf das Mikrofon",
+    "recording": "Aufnahme läuft...",
+    "processing": "Verarbeitung...",
+    "success": "Aufnahme erfolgreich gespeichert",
+    "error": "Fehler bei der Audioaufnahme"
+  },
+  "knowledge": {
+    "title": "Wissensbasis",
+    "addNew": "Neu hinzufügen",
+    "search": "Wissensbasis durchsuchen...",
+    "noItems": "Keine Einträge gefunden",
+    "deleteConfirm": "Sind Sie sicher, dass Sie diesen Eintrag löschen möchten?",
+    "content": "Inhalt",
+    "source": "Quelle",
+    "timestamp": "Hinzugefügt"
+  },
+  "emotions": {
+    "joy": "Freude",
+    "sadness": "Traurigkeit",
+    "anger": "Wut",
+    "fear": "Angst",
+    "surprise": "Überraschung",
+    "neutral": "Neutral"
+  },
+  "languages": {
+    "en": "Englisch",
+    "es": "Spanisch",
+    "fr": "Französisch",
+    "de": "Deutsch",
+    "ru": "Russisch",
+    "zh": "Chinesisch",
+    "ja": "Japanisch"
+  }
+}

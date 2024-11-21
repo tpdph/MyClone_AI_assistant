@@ -1,0 +1,63 @@
+{
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラー",
+    "success": "成功",
+    "cancel": "キャンセル",
+    "save": "保存",
+    "delete": "削除",
+    "edit": "編集",
+    "add": "追加",
+    "search": "検索",
+    "language": "言語",
+    "settings": "設定"
+  },
+  "nav": {
+    "home": "ホーム",
+    "knowledge": "知識ベース",
+    "voice": "音声トレーニング",
+    "avatar": "アバタートレーニング",
+    "chat": "チャット"
+  },
+  "voice": {
+    "title": "音声トレーニングスタジオ",
+    "subtitle": "デジタル音声クローンを作成",
+    "record": "録音",
+    "stop": "停止",
+    "play": "再生",
+    "upload": "アップロード",
+    "tips": "ヒント",
+    "micPermission": "マイクへのアクセスを許可してください",
+    "recording": "録音中...",
+    "processing": "処理中...",
+    "success": "録音が正常に保存されました",
+    "error": "音声録音エラー"
+  },
+  "knowledge": {
+    "title": "知識ベース",
+    "addNew": "新規アイテムを追加",
+    "search": "知識ベースを検索...",
+    "noItems": "アイテムが見つかりません",
+    "deleteConfirm": "このアイテムを削除してもよろしいですか？",
+    "content": "内容",
+    "source": "ソース",
+    "timestamp": "追加日時"
+  },
+  "emotions": {
+    "joy": "喜び",
+    "sadness": "悲しみ",
+    "anger": "怒り",
+    "fear": "恐れ",
+    "surprise": "驚き",
+    "neutral": "中立"
+  },
+  "languages": {
+    "en": "英語",
+    "es": "スペイン語",
+    "fr": "フランス語",
+    "de": "ドイツ語",
+    "ru": "ロシア語",
+    "zh": "中国語",
+    "ja": "日本語"
+  }
+}

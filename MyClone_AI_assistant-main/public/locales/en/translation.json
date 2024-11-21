@@ -1,0 +1,183 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "language": "Language",
+    "settings": "Settings",
+    "selectedFiles": "Selected Files",
+    "supportedFormats": "Supported Formats (.txt, .pdf, .doc)"
+  },
+  "knowledgeBase": {
+    "title": "Knowledge Base",
+    "description": "Manage and organize your knowledge items",
+    "add": "Add Knowledge",
+    "processing": "Processing your knowledge...",
+    "noItems": "No knowledge items found",
+    "upload": {
+      "title": "Upload Files",
+      "description": "Click to upload or drag and drop files here",
+      "supported": "Supported file types: PDF, DOC, TXT, MP3, MP4, WAV, JPG, PNG, GIF, URL"
+    },
+    "url": {
+      "title": "Add URL",
+      "description": "Enter a URL to add as a knowledge source"
+    },
+    "items": {
+      "source": "Source",
+      "timestamp": "Added"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "description": "Customize your application settings",
+    "notifications": {
+      "title": "Notifications",
+      "description": "Receive updates and alerts"
+    },
+    "darkMode": {
+      "title": "Dark Mode",
+      "description": "Switch between light and dark theme"
+    },
+    "sound": {
+      "title": "Sound",
+      "description": "Enable sound effects and feedback"
+    }
+  },
+  "chat": {
+    "placeholder": "Type your message here...",
+    "send": "Send",
+    "thinking": "AI is thinking...",
+    "error": "Error sending message"
+  },
+  "nav": {
+    "home": "Home",
+    "knowledge": "Knowledge Base",
+    "assistant": "Create Your Assistant",
+    "shape": "Give it Shape",
+    "voice": "Give it Voice",
+    "chat": "Chat",
+    "cantera": "Cantera",
+    "settings": "Settings"
+  },
+  "assistant": {
+    "creation": {
+      "title": "Create Your Assistant",
+      "description": "Customize your AI companion with a unique appearance and voice"
+    },
+    "uploadFiles": "Upload Files",
+    "avatar": {
+      "title": "Avatar",
+      "description": "Choose how your assistant looks",
+      "upload": "Upload Avatar",
+      "preview": "Preview"
+    },
+    "title": "Create Your Assistant",
+    "description": "Customize your AI companion with a unique appearance and voice",
+    "namePrompt": "What's your assistant's name?",
+    "noAssistant": "You haven't created any assistant yet",
+    "addUrl": "Add URL",
+    "voicePrompt": "Voice Prompt",
+    "voicePromptPlaceholder": "Enter your voice prompt...",
+    "source": "Source",
+    "timestamp": "Added",
+    "noItems": "No items found",
+    "add": "Add New"
+  },
+  "cantera": {
+    "title": "Cantera Repository",
+    "description": "Browse and select from our collection of voices and personalities",
+    "category": "Category",
+    "gender": "Gender",
+    "filters": {
+      "category": {
+        "all": "All Voices",
+        "vip": "VIP Voices",
+        "default": "Default Voices",
+        "title": "Filter by Category"
+      },
+      "gender": {
+        "all": "All Genders",
+        "male": "Male",
+        "female": "Female",
+        "title": "Filter by Gender"
+      }
+    },
+    "voices": {
+      "vip": {
+        "trump": "Donald Trump",
+        "freeman": "Morgan Freeman",
+        "jobs": "Steve Jobs",
+        "garland": "Judy Garland",
+        "mairena": "Antonio Mairena",
+        "pantoja": "Isabel Pantoja"
+      },
+      "default": {
+        "natural-male-1": "Natural Male Voice 1",
+        "natural-female-1": "Natural Female Voice 1"
+      }
+    }
+  },
+  "shape": {
+    "title": "Give it Shape",
+    "description": "Create a unique avatar that represents your AI assistant"
+  },
+  "voice": {
+    "title": "Voice Control",
+    "startListening": "Start listening",
+    "stopListening": "Stop listening",
+    "errors": {
+      "notSupported": "Speech recognition not supported in this browser",
+      "microphoneAccess": "Error accessing microphone",
+      "recognition": "Error starting speech recognition"
+    },
+    "record": "Record",
+    "stop": "Stop",
+    "play": "Play",
+    "upload": "Upload",
+    "tips": "Tips",
+    "micPermission": "Please allow microphone access",
+    "recording": "Recording...",
+    "processing": "Processing...",
+    "success": "Recording saved successfully",
+    "error": "Error recording audio",
+    "scanQR": "Scan QR Code",
+    "scanInstructions": "Scan this QR code with your mobile device",
+    "openMobile": "Open in mobile browser"
+  },
+  "knowledge": {
+    "title": "Knowledge Base",
+    "addNew": "Add New Item",
+    "search": "Search knowledge base...",
+    "noItems": "No items found",
+    "deleteConfirm": "Are you sure you want to delete this item?",
+    "content": "Content",
+    "source": "Source",
+    "timestamp": "Added",
+    "processing": "Processing your knowledge..."
+  },
+  "emotions": {
+    "joy": "Joy",
+    "sadness": "Sadness",
+    "anger": "Anger",
+    "fear": "Fear",
+    "surprise": "Surprise",
+    "neutral": "Neutral"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "ru": "Russian",
+    "zh": "Chinese",
+    "ja": "Japanese",
+    "ar": "Arabic"
+  }
+}

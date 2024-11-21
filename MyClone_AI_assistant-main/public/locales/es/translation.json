@@ -1,0 +1,103 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "add": "Agregar",
+    "search": "Buscar",
+    "language": "Idioma",
+    "settings": "Configuración"
+  },
+  "chat": {
+    "placeholder": "Escribe tu mensaje aquí...",
+    "send": "Enviar",
+    "thinking": "La IA está pensando...",
+    "error": "Error al enviar mensaje"
+  },
+  "nav": {
+    "home": "Inicio",
+    "knowledge": "Base de Conocimiento",
+    "assistant": "Crea tu Asistente",
+    "shape": "Dale Forma",
+    "voice": "Dale Voz",
+    "chat": "Chat",
+    "cantera": "Cantera"
+  },
+  "assistant": {
+    "title": "Crea tu Asistente",
+    "description": "Personaliza tu compañero de IA con una apariencia y voz únicas",
+    "namePrompt": "¿Cómo se llama tu asistente?",
+    "noAssistant": "Todavía no has creado ningún asistente",
+    "uploadFiles": "Arrastra los archivos que quieres que conozca o haz click para buscarlos"
+  },
+  "shape": {
+    "title": "Dale Forma",
+    "description": "Crea un avatar único que represente a tu asistente de IA",
+    "namePrompt": "¿Cómo se llama tu asistente?",
+    "noAvatar": "Todavía no has creado ningún asistente",
+    "dragDrop": "Arrastra los archivos que quieres que conozca o haz click para buscarlos"
+  },
+  "voice": {
+    "title": "Dale Voz",
+    "description": "Crea cualquier tipo de voz para tu asistente o elige una de las disponibles",
+    "record": "Grabar",
+    "stop": "Detener",
+    "play": "Reproducir",
+    "upload": "Subir",
+    "tips": "Consejos",
+    "micPermission": "Por favor permite el acceso al micrófono",
+    "recording": "Grabando...",
+    "processing": "Procesando...",
+    "success": "Grabación guardada exitosamente",
+    "error": "Error al grabar audio",
+    "scanQR": "Escanear Código QR",
+    "scanInstructions": "Escanea este código QR con tu dispositivo móvil",
+    "openMobile": "Abrir en navegador móvil"
+  },
+  "cantera": {
+    "title": "Cantera",
+    "description": "Elige entre nuestra colección de voces y avatares predefinidos",
+    "vipVoices": "Voces VIP",
+    "naturalVoices": "Voces Naturales",
+    "defaultAvatars": "Avatares Predeterminados",
+    "preview": "Vista Previa",
+    "select": "Seleccionar",
+    "male": "Masculino",
+    "female": "Femenino",
+    "noVoices": "No hay voces disponibles",
+    "noAvatars": "No hay avatares disponibles"
+  },
+  "knowledge": {
+    "title": "Base de Conocimiento",
+    "addNew": "Agregar Nuevo Item",
+    "search": "Buscar en base de conocimiento...",
+    "noItems": "No se encontraron items",
+    "deleteConfirm": "¿Estás seguro de que quieres eliminar este item?",
+    "content": "Contenido",
+    "source": "Fuente",
+    "timestamp": "Agregado",
+    "processing": "Procesando tu conocimiento..."
+  },
+  "emotions": {
+    "joy": "Alegría",
+    "sadness": "Tristeza",
+    "anger": "Enojo",
+    "fear": "Miedo",
+    "surprise": "Sorpresa",
+    "neutral": "Neutral"
+  },
+  "languages": {
+    "en": "Inglés",
+    "es": "Español",
+    "fr": "Francés",
+    "de": "Alemán",
+    "ru": "Ruso",
+    "zh": "Chino",
+    "ja": "Japonés",
+    "ar": "Árabe"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "assistant": {
+    "creation": {
+      "title": "Crear Nuevo Asistente",
+      "description": "Configura tu nuevo asistente de IA",
+      "name": "Nombre del Asistente",
+      "namePlaceholder": "Ingresa el nombre del asistente",
+      "personality": "Personalidad",
+      "personalityPlaceholder": "Describe la personalidad del asistente",
+      "createButton": "Crear Asistente",
+      "success": "Asistente creado exitosamente",
+      "error": "Error al crear el asistente"
+    }
+  },
+  "avatar": {
+    "title": "Configuración de Avatar",
+    "noAvatar": "No se ha seleccionado avatar",
+    "dragDrop": "Arrastra y suelta una imagen aquí",
+    "upload": "Subir Avatar",
+    "remove": "Eliminar Avatar",
+    "preview": "Vista previa del Avatar"
+  },
+  "knowledge": {
+    "title": "Base de Conocimiento",
+    "description": "Gestiona la base de conocimiento de tu asistente",
+    "uploadFiles": "Subir Archivos",
+    "dragAndDrop": "Arrastra y suelta archivos aquí",
+    "supportedFormats": "Formatos soportados: PDF, DOCX, TXT",
+    "voicePrompt": "Usa la voz para añadir conocimiento",
+    "addUrl": "Añadir URL",
+    "add": "Añadir a la Base de Conocimiento",
+    "processing": {
+      "title": "Procesamiento",
+      "description": "Procesando tu base de conocimiento",
+      "status": "Estado del Procesamiento",
+      "progress": "Progreso del Procesamiento",
+      "success": "Procesamiento completado",
+      "error": "Error al procesar archivos"
+    },
+    "management": {
+      "title": "Gestión de Conocimiento",
+      "description": "Gestiona tu base de conocimiento",
+      "search": "Buscar en Base de Conocimiento",
+      "noResults": "No se encontraron resultados",
+      "delete": "Eliminar Entrada",
+      "edit": "Editar Entrada",
+      "confirmDelete": "¿Estás seguro de que quieres eliminar esta entrada?"
+    }
+  },
+  "voice": {
+    "title": "Configuración de Voz",
+    "subtitle": "Configura los ajustes de interacción por voz",
+    "description": "Personaliza cómo suena y responde tu asistente",
+    "preview": "Vista Previa de Voz",
+    "select": "Seleccionar Voz",
+    "upload": "Subir Muestra de Voz",
+    "record": "Grabar Voz",
+    "stop": "Detener Grabación",
+    "save": "Guardar Voz"
+  },
+  "settings": {
+    "title": "Configuración",
+    "description": "Personaliza tu experiencia con el asistente de IA",
+    "notifications": "Notificaciones",
+    "notificationsDesc": "Recibe actualizaciones y alertas de tu asistente de IA",
+    "darkMode": "Modo Oscuro",
+    "darkModeDesc": "Alterna entre temas claros y oscuros",
+    "sound": "Sonido",
+    "soundDesc": "Activar o desactivar efectos de sonido",
+    "language": "Idioma"
+  },
+  "cantera": {
+    "title": "Repositorio de Voces",
+    "description": "Elige entre nuestra colección de voces naturales y de celebridades",
+    "categoryFilter": "Filtro de Categoría",
+    "allVoices": "Todas las Voces",
+    "naturalVoices": "Natural",
+    "vipVoices": "VIP",
+    "genderFilter": "Filtro de Género",
+    "allGenders": "Todos los Géneros",
+    "male": "Masculino",
+    "female": "Femenino",
+    "preview": "Vista Previa",
+    "select": "Seleccionar Voz",
+    "selected": "Seleccionada",
+    "noVoicesFound": "No se encontraron voces",
+    "voices": {
+      "trump": {
+        "name": "Donald Trump",
+        "description": "¡Haz que tu asistente sea grandioso otra vez!"
+      },
+      "freeman": {
+        "name": "Morgan Freeman",
+        "description": "La icónica voz de la sabiduría y la narración"
+      },
+      "jobs": {
+        "name": "Steve Jobs",
+        "description": "La voz innovadora de la tecnología"
+      }
+    }
+  },
+  "common": {
+    "settings": "Configuración",
+    "language": "Idioma",
+    "all": "Todos",
+    "play": "Reproducir",
+    "pause": "Pausar",
+    "loading": "Cargando...",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "create": "Crear",
+    "upload": "Subir",
+    "download": "Descargar",
+    "success": "Éxito",
+    "error": "Error",
+    "warning": "Advertencia",
+    "info": "Información"
+  },
+  "nav": {
+    "avatar": "Avatar",
+    "voice": "Voz",
+    "chat": "Chat",
+    "knowledge": "Base de Conocimiento",
+    "settings": "Configuración"
+  },
+  "chat": {
+    "placeholder": "Escribe tu mensaje...",
+    "send": "Enviar",
+    "clear": "Limpiar Chat",
+    "thinking": "El asistente está pensando...",
+    "error": "Error al enviar mensaje",
+    "reconnecting": "Reconectando...",
+    "connected": "Conectado",
+    "disconnected": "Desconectado",
+    "recording": "Grabando...",
+    "listening": "Escuchando...",
+    "speechRecognition": {
+      "start": "Comenzar a Hablar",
+      "stop": "Dejar de Hablar",
+      "notAvailable": "Reconocimiento de voz no disponible",
+      "error": "Error con el reconocimiento de voz"
+    }
+  },
+  "emotional": {
+    "title": "Estado Emocional",
+    "description": "Configura la respuesta emocional de tu asistente",
+    "states": {
+      "neutral": "Neutral",
+      "happy": "Feliz",
+      "sad": "Triste",
+      "excited": "Emocionado",
+      "concerned": "Preocupado",
+      "professional": "Profesional"
+    },
+    "intensity": {
+      "title": "Intensidad",
+      "low": "Baja",
+      "medium": "Media",
+      "high": "Alta"
+    }
+  },
+  "model": {
+    "title": "Selección de Modelo",
+    "description": "Elige el modelo de IA para tu asistente",
+    "models": {
+      "gpt35": "GPT-3.5",
+      "gpt4": "GPT-4",
+      "claude": "Claude",
+      "custom": "Modelo Personalizado"
+    },
+    "parameters": {
+      "temperature": "Temperatura",
+      "maxTokens": "Tokens Máximos",
+      "topP": "Top P",
+      "frequencyPenalty": "Penalización de Frecuencia",
+      "presencePenalty": "Penalización de Presencia"
+    }
+  },
+  "language": {
+    "title": "Configuración de Idioma",
+    "description": "Elige tu idioma preferido",
+    "current": "Idioma Actual",
+    "available": "Idiomas Disponibles",
+    "en": "Inglés",
+    "es": "Español",
+    "auto": "Detección Automática"
+  }
+}

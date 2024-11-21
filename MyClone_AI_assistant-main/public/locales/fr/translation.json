@@ -1,0 +1,63 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "search": "Rechercher",
+    "language": "Langue",
+    "settings": "Paramètres"
+  },
+  "nav": {
+    "home": "Accueil",
+    "knowledge": "Base de Connaissances",
+    "voice": "Entraînement Vocal",
+    "avatar": "Entraînement Avatar",
+    "chat": "Chat"
+  },
+  "voice": {
+    "title": "Studio d'Entraînement Vocal",
+    "subtitle": "Créez votre clone vocal numérique",
+    "record": "Enregistrer",
+    "stop": "Arrêter",
+    "play": "Lire",
+    "upload": "Télécharger",
+    "tips": "Conseils",
+    "micPermission": "Veuillez autoriser l'accès au microphone",
+    "recording": "Enregistrement...",
+    "processing": "Traitement...",
+    "success": "Enregistrement sauvegardé avec succès",
+    "error": "Erreur d'enregistrement audio"
+  },
+  "knowledge": {
+    "title": "Base de Connaissances",
+    "addNew": "Ajouter un Nouvel Élément",
+    "search": "Rechercher dans la base de connaissances...",
+    "noItems": "Aucun élément trouvé",
+    "deleteConfirm": "Êtes-vous sûr de vouloir supprimer cet élément ?",
+    "content": "Contenu",
+    "source": "Source",
+    "timestamp": "Ajouté"
+  },
+  "emotions": {
+    "joy": "Joie",
+    "sadness": "Tristesse",
+    "anger": "Colère",
+    "fear": "Peur",
+    "surprise": "Surprise",
+    "neutral": "Neutre"
+  },
+  "languages": {
+    "en": "Anglais",
+    "es": "Espagnol",
+    "fr": "Français",
+    "de": "Allemand",
+    "ru": "Russe",
+    "zh": "Chinois",
+    "ja": "Japonais"
+  }
+}

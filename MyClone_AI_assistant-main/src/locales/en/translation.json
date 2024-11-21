@@ -1,0 +1,102 @@
+{
+  "assistant": {
+    "creation": {
+      "title": "Create New Assistant",
+      "description": "Configure your new AI assistant",
+      "name": "Assistant Name",
+      "namePlaceholder": "Enter assistant name",
+      "personality": "Personality",
+      "personalityPlaceholder": "Describe the assistant's personality",
+      "createButton": "Create Assistant",
+      "success": "Assistant created successfully",
+      "error": "Error creating assistant"
+    }
+  },
+  "avatar": {
+    "title": "Avatar Settings",
+    "noAvatar": "No avatar selected",
+    "dragDrop": "Drag and drop an image here",
+    "upload": "Upload Avatar",
+    "remove": "Remove Avatar",
+    "preview": "Avatar Preview"
+  },
+  "knowledge": {
+    "title": "Knowledge Base",
+    "description": "Manage your assistant's knowledge base",
+    "uploadFiles": "Upload Files",
+    "dragAndDrop": "Drag and drop files here",
+    "supportedFormats": "Supported formats: PDF, DOCX, TXT",
+    "voicePrompt": "Use voice to add knowledge",
+    "addUrl": "Add URL",
+    "add": "Add to Knowledge Base",
+    "processing": {
+      "title": "Processing",
+      "description": "Processing your knowledge base",
+      "status": "Processing Status",
+      "progress": "Processing Progress",
+      "success": "Processing complete",
+      "error": "Error processing files"
+    },
+    "management": {
+      "title": "Knowledge Management",
+      "description": "Manage your knowledge base",
+      "search": "Search Knowledge Base",
+      "noResults": "No results found",
+      "delete": "Delete Entry",
+      "edit": "Edit Entry",
+      "confirmDelete": "Are you sure you want to delete this entry?"
+    }
+  },
+  "voice": {
+    "title": "Voice Settings",
+    "subtitle": "Configure voice interaction settings",
+    "description": "Customize how your assistant sounds and responds",
+    "preview": "Preview Voice",
+    "select": "Select Voice",
+    "upload": "Upload Voice Sample",
+    "record": "Record Voice",
+    "stop": "Stop Recording",
+    "save": "Save Voice"
+  },
+  "settings": {
+    "title": "Settings",
+    "description": "Customize your AI assistant experience",
+    "notifications": "Notifications",
+    "notificationsDesc": "Receive updates and alerts from your AI assistant",
+    "darkMode": "Dark Mode",
+    "darkModeDesc": "Switch between light and dark themes",
+    "sound": "Sound",
+    "soundDesc": "Enable or disable sound effects",
+    "language": "Language"
+  },
+  "cantera": {
+    "title": "Voice Repository",
+    "description": "Choose from our collection of natural and celebrity voices",
+    "categoryFilter": "Category Filter",
+    "allVoices": "All Voices",
+    "naturalVoices": "Natural",
+    "vipVoices": "VIP",
+    "genderFilter": "Gender Filter",
+    "allGenders": "All Genders",
+    "male": "Male",
+    "female": "Female",
+    "preview": "Preview",
+    "select": "Select Voice",
+    "selected": "Selected",
+    "noVoicesFound": "No voices found",
+    "voices": {
+      "trump": {
+        "name": "Donald Trump",
+        "description": "Make your assistant great again!"
+      },
+      "freeman": {
+        "name": "Morgan Freeman",
+        "description": "The iconic voice of wisdom and narration"
+      },
+      "jobs": {
+        "name": "Steve Jobs",
+        "description": "The innovative voice of technology"
+      }
+    }
+  }
+}
